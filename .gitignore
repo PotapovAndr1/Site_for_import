@@ -1,0 +1,10 @@
+# Игнорировать подкаталог tmp/
+tmp/
+
+# Игнорировать файлы, заканчивающиеся на _old и _backup
+*_old
+*_backup
+
+# Игнорировать Thumbs.db и .DS_Store
+Thumbs.db
+.DS_Store
